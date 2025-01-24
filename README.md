@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 I'm Sopanha</h1>
-<h3 align="center">A passionate Data and AI Engineer from France</h3>
+# Hi there 👋 
+<h3 align="center">I'm a passionate developer always eager to learn and grow. My coding journey is filled with exploration, problem-solving, and building awesome projects. I believe in the power of open-source and love contributing to the community. This repository serves as a digital showcase of my skills and projects. Feel free to explore, connect, and collaborate! Let's build amazing things together.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
