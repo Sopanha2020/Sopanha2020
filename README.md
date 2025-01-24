@@ -37,7 +37,11 @@
  <div align="center">
           
    <h2>🐍 My Contributions 🐍</h2>
- </div>
-  
+ </div >
+
+ <div align="center">
+
 ![snake gif](https://github.com/victoria-1989/victoria-1989/blob/output/github-contribution-grid-snake.svg)
+ </div >
+
 
