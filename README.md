@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">I'm Sopanha</h1>
+<h1 align="center">Hi there 👋 I'm Sopanha</h1>
 <h3 align="center">A passionate Data and AI Engineer from France</h3>
 
 <h3 align="left">Connect with me:</h3>
