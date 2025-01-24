@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sopanha-sao-7648a6a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sopanha-sao-7648a6a3/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/sopanhasao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sopanhasao" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/sopanhasao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://www.kaggle.com/sopanhasao" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
